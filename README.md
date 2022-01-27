@@ -1,6 +1,6 @@
 # glazz
 
-A new Flutter project.
+Glass effect with flutter
 
 ## Getting Started
 
